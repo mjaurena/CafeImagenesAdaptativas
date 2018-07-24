@@ -1,0 +1,1 @@
+Práctica con imágenes adaptativas
